@@ -3,7 +3,7 @@
     "name": "MinDArT",
     "short_name": "MinDArT",
     "description": "MinDArT Progressive Web App (PWA) for offline use.",
-    "start_url": "https://jameswilce.github.io/DevMinDArT",
+    "start_url": "https://jameswilce.github.io/MinDArT-Demo",
     "background_color": "white",
     "theme_color": "white",
     "orientation": "landscape",

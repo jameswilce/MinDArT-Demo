@@ -48,7 +48,7 @@ function Programme_AppRelease(){
 
 // Common interface functions
 function menu() {
-    window.location.href = "https://jameswilce.github.io/DevMinDArT";
+    window.location.href = "https://jameswilce.github.io/MinDArT-Demo";
     //window.location.href = "/";
 }
 

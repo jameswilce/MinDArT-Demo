@@ -3,12 +3,16 @@
   grid-template-columns: repeat(3, 1fr);
   background: white;
   align-items: center;
-
+  width: 80%;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
-.grid > div {
-  background: white ;
+
+.grid>div {
+  background: white;
   padding: 1rem;
-  width: 30;
+  width: 30%;
+  box-sizing: border-box;
 }
 
 @font-face {

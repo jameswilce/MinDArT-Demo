@@ -1,8 +1,9 @@
 .grid {
   display: grid;
-grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   background: white;
   align-items: center;
+  width:fit-content;
 }
 .grid > div {
   background: white ;
